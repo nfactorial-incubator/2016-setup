@@ -32,7 +32,7 @@ Type this in your terminal:
 $ git clone --recursive https://github.com/N17R/dotfiles.git ~/dotfiles && set -- -f; bash ~/dotfiles/sync.sh
 ```
 
-You may want to change the username in the Github link above, if you forked the repository to use your own configuration.
+You may want to change the username in the Github link above if you forked the repository to use your own configuration.
 
 When the script is finished, quit your terminal and restart it (⌘ + Q).
 

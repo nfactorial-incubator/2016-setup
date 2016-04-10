@@ -32,7 +32,7 @@ brew install zsh
 command -v zsh | sudo tee -a /etc/shells
 chsh -s /usr/local/bin/zsh
 
-# Use a modified version of the Solarized Dark theme by default in Terminal.app
+# Use the Monokai theme by default in Terminal.app
 osascript <<EOD
 tell application "Terminal"
   local allOpenedWindows
