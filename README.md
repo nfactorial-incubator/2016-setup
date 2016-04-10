@@ -1,6 +1,6 @@
 # Setup instructions
 
-The following instructions will help you to get ready for N17R programming classes. If you are an experienced programmer you may choose to skip some of the steps, but make sure to check the bootstrap script.
+The following instructions will help you to get ready for N17R programming classes. If you are an experienced programmer, you may choose to skip some of the steps, but make sure to check the bootstrap script.
 
 ## GitHub account
 
