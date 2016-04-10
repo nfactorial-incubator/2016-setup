@@ -22,7 +22,7 @@ Please follow the instructions, and if you have any questions just call a mentor
 
 This script will configure your laptop and install all the necessary packages for your command line. If you need some clarifications about exactly that means, you can open the link in the command and read the comments.
 
-When the script is finished, you should have Atom, Slack, and Sourcetree apps installed. If they are not, stop **right away** and call a mentor.
+When the script is finished, you should have Atom, Sketch, Slack, and Sourcetree apps installed. If they are not, stop **right away** and call a mentor.
 
 ## Dotfiles
 

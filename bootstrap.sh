@@ -94,6 +94,7 @@ apps=(
  qlcolorcode
  qlmarkdown
  qlstephen
+ sketch
  slack
  sourcetree
 )
