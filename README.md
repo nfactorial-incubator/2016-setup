@@ -15,7 +15,7 @@ Open the Terminal (click on the magnifying glass icon in the top right corner of
 Copy-paste the following command, i.e. what is after the dollar sign `$`. The dollar sign is a common convention to indicate this is something you need to type in the terminal.
 
 ```bash
-$ curl https://raw.githubusercontent.com/N17R/setup/master/bootstrap.sh | bash
+$ curl -fsSL https://raw.githubusercontent.com/N17R/setup/master/bootstrap.sh | sh
 ```
 
 Please follow the instructions, and if you have any questions just call a mentor.
@@ -51,7 +51,7 @@ We will be distributing Xcode via our local network using ... TBD
 After you are done installing Xcode, you can type the following command in your terminal:
 
 ```bash
-$ curl https://raw.githubusercontent.com/N17R/setup/master/xcode.sh | bash
+$ curl -fsSL https://raw.githubusercontent.com/N17R/setup/master/xcode.sh | sh
 ```
 
 It will install [Alcatraz](https://github.com/alcatraz/Alcatraz), which is a package manager for Xcode. Then, using Alcatraz, the script will download and enable several plugins that you will find useful while working with Xcode.
