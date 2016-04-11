@@ -16,9 +16,10 @@ brew install neonichu/formulae/azkaban
 brew cleanup
 
 # Install Azkaban packages.
+azkaban install FuzzyAutocomplete
 azkaban install DBSmartPanels
 azkaban install Luft
 azkaban install VVDocumenter-Xcode
 azkaban install XCActionBar
-azkaban install OMQuickHelp
 azkaban install FixCode
+azkaban install SwiftLintXcode

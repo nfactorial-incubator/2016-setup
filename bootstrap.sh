@@ -82,9 +82,12 @@ brew install fzf
 brew install thoughtbot/formulae/liftoff
 brew install keith/formulae/cocoapods
 brew install carthage
+brew install swiftlint
 brew install jondot/tap/blade
 gem install xcode-install
 gem install fastlane
+gem install synx
+gem install cocoapods-playgrounds
 
 # Install cask.
 brew install caskroom/cask/brew-cask
