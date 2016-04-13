@@ -94,6 +94,7 @@ brew install caskroom/cask/brew-cask
 
 apps=(
  atom
+ iconjar
  qlcolorcode
  qlmarkdown
  qlstephen
