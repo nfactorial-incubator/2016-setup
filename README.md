@@ -26,12 +26,14 @@ When the script is finished, you should have Atom, Iconjar, Sketch, Slack, and S
 
 ## Dotfiles
 
-Hackers love to refine and polish their shell and tools. We'll start with a great default configuration provided by N17R, stored on GitHub. If you are more advanced, you can [fork the repository](https://github.com/N17R/dotfiles/fork) and make your adjustments before proceeding.
+Hackers love to refine and polish their shell and tools. We'll start with a great default configuration provided by N17R, stored on GitHub. If you are more advanced, you can [fork the repository](https://github.com/n17r/dotfiles/fork) and make your adjustments before proceeding.
 
 Type this in your terminal:
 
 ```bash
-$ git clone --recursive https://github.com/N17R/dotfiles.git ~/dotfiles && set -- -f; bash ~/dotfiles/sync.sh
+$ brew install thoughtbot/formulae/rcm
+$ git clone --recursive https://github.com/yenbekbay/dotfiles.git ~/.dotfiles
+$ rcup -v -d ~/.dotfiles/symlinks
 ```
 
 You may want to change the username in the Github link above if you forked the repository to use your own configuration.
