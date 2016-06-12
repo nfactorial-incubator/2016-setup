@@ -32,7 +32,7 @@ Type this in your terminal:
 
 ```bash
 $ brew install thoughtbot/formulae/rcm
-$ git clone --recursive https://github.com/yenbekbay/dotfiles.git ~/.dotfiles
+$ git clone --recursive https://github.com/n17r/dotfiles.git ~/.dotfiles
 $ rcup -v -d ~/.dotfiles/symlinks
 ```
 
